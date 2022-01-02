@@ -1,1 +1,1 @@
-# playground-go
+# go-playground
