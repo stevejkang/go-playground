@@ -7,5 +7,6 @@ var c bool
 func main() {
 	var i int
 	var j = "Hello"
-	fmt.Println(i, c, j)
+	k := 3
+	fmt.Println(i, c, j, k)
 }
