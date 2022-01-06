@@ -6,5 +6,6 @@ var c bool
 
 func main() {
 	var i int
-	fmt.Println(i, c)
+	var j = "Hello"
+	fmt.Println(i, c, j)
 }
